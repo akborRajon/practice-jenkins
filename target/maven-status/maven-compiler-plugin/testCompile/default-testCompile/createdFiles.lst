@@ -1,2 +1,4 @@
+common\googleBase.class
+pages\googleHomePage.class
 runner\testrunner.class
 steps\searchingproducts.class
